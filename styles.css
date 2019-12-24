@@ -1,0 +1,32 @@
+h1 {
+  color:#331a00;
+  font-family:"Georgia", Times, serif;
+}
+
+h2 {
+  color:#cc9900;
+}
+
+li.l1 {
+  font-weight: bold;
+}
+
+li.l2 {
+  text-decoration: underline;
+}
+
+li.l3 {
+  font-style: italic;
+}
+
+table {
+  margin-bottom: 10px;
+}
+
+table thead {
+  font-weight: bold;
+}
+
+table td {
+  padding: 5px 25px 5px 0;
+}
